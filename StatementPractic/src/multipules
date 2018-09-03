@@ -1,0 +1,9 @@
+
+<suite name="Ecommerce">
+  <test name="SanityTest">
+    <classes>
+      <class name="holder.NewTest1"/>
+      <class name="holder.NewTest2"/>
+    </classes>
+  </test> 
+</suite> 

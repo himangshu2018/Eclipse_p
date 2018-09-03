@@ -1,0 +1,9 @@
+
+<suite name="Ecommerce">
+  <test name="SanityTests">
+    <classes>
+      <class name="practicStatement.NewTest20"/>
+      <class name="practicStatement.NewTest21"/>
+    </classes>
+  </test> 
+</suite> 
